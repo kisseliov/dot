@@ -1,0 +1,101 @@
+"↓ Difficult to identify groups ↓
+"{{{ Folded
+hi Folded
+    \ gui=none
+    \ guifg=#767676
+    \ guibg=#1c1c1c
+"}}} Folded
+"{{{ Visual
+hi Visual
+    \ gui=none
+    \ guifg=None
+    \ guibg=#data
+"}}} Visual
+"{{{ Search
+hi Search
+    \ gui=none
+    \ guifg=#262626
+    \ guibg=#af87d7
+"}}} Search
+"{{{ IncSearch
+hi IncSearch
+    \ gui=none
+    \ guifg=#262626
+    \ guibg=#d75f5f
+"}}} IncSearch
+"{{{ LineNR
+hi LineNR
+    \ gui=none
+    \ guifg=#626262
+    \ guibg=none
+"}}} LineNR
+"{{{ CursorLineNR
+hi CursorLineNR
+    \ gui=none
+    \ guifg=#af87d7
+    \ guibg=#303030
+"}}} CursorLineNR
+"{{{ CursorLine
+hi CursorLine
+    \ gui=none
+    \ guifg=none
+    \ guibg=#303030
+"}}} CursorLine
+"{{{ SpellBad
+hi SpellBad
+    \ gui=underline
+    \ guifg=#af5f87
+    \ guibg=none
+"}}} SpellBad
+"{{{ SpellCap
+hi SpellCap
+    \ gui=underline
+    \ guifg=#87af87
+    \ guibg=none
+"}}} SpellCap
+"{{{ SpellRare
+hi SpellRare
+    \ gui=undercurl
+    \ guifg=none
+    \ guibg=none
+"}}} SpellRare
+"{{{ SpellLocal
+hi SpellLocal
+    \ gui=underline
+    \ guifg=#d7af5f
+    \ guibg=none
+"}}} SpellLocal
+"{{{ NonText
+hi NonText
+    \ gui=none
+    \ guifg=#444444
+    \ guibg=bg
+"}}} NonText
+"{{{ FoldColumn
+hi FoldColumn
+    \ gui=none
+    \ guifg=#626262
+    \ guibg=none
+"}}} FoldColumn
+"{{{ Cursor
+hi Cursor
+    \ gui=none
+    \ guifg=#c6c6c6
+    \ guibg=#af87d7
+"}}} Cursor
+"{{{ VertSplit
+hi VertSplit
+    \ gui=none
+    \ guifg=#303030
+    \ guibg=#303030
+"}}} VertSplit
+"{{{ MatchParen
+hi MatchParen
+    \ gui=bold
+    \ guifg=#d75f5f
+    \ guibg=none
+"}}} MatchParen
+
+" for a complete list of groups see the file :so $VIMRUNTIME/syntax/hitest.vim
+
+" vim:tw=78:ts=2:sw=2:et:fdm=marker:
